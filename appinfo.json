@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aaron@haun.guru",
+    "longName": "WatchFu",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "WatchFu",
+    "uuid": "1f8a6bb8-7a36-4455-ad3a-dc667e23b385",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
